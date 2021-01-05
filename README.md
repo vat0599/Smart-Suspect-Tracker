@@ -1,5 +1,7 @@
 # Smart Suspect Tracker
 
+A smart suspect tracking system used to detect wide range of real world crimes and anomalies in surveillance videos which can aid the police department for efficient and timely response to the crime.
+
 ## Steps to follow:
 
 ### Initialize Website
