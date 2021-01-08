@@ -43,3 +43,6 @@ All these data are then stored in a database and linked to a frontend web app wh
 
 <img src="https://user-images.githubusercontent.com/41820878/103680346-11691280-4fac-11eb-89e3-877535f634a9.png">
 <img src="https://user-images.githubusercontent.com/41820878/103680617-6b69d800-4fac-11eb-8d77-c7848a349625.png">
+
+## Contributions
+Do not hesitate to contribute by [filling an issue](https://github.com/vat0599/Smart-Suspect-Tracker/issues) or [a PR](https://github.com/vat0599/Smart-Suspect-Tracker/pulls) !
