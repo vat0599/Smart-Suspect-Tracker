@@ -23,7 +23,7 @@ A smart suspect tracking system used to detect wide range of real world crimes a
 - Download the dataset from https://visionlab.uncc.edu/download/summary/60-data/477-ucf-anomaly-detection-dataset or https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0
 - Save in the same target folder
 - Change the path files in training.py, testing.py and gui.py
-- Run training.py and testing.py consequtively (PS: We have already stored trained model in weights_L1L2.mat so you need not train and test again).
+- Run training.py and testing.py consecutively (PS: We have already stored trained model in weights_L1L2.mat so you need not train and test again).
 - Run gui.py
 - Select the example video from dataset whose c3d features are aready extracted. (A few samples with c3d features already extracted are present in the SampleVideos folder).
 
