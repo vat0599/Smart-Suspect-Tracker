@@ -123,33 +123,3 @@ for iv in range(nVideos):
     aa=aa[0:-4]
     A_predictions_path = Results_Path + aa + '.mat'  # Save array of 1*32, containing anomaly score for each segment. Please see Evaluate Anomaly Detector to compute  ROC.
     print "Total Time took: " + str(datetime.now() - time_before)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
